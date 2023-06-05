@@ -1,4 +1,4 @@
-# WordleGame
+# Wordle Game
 This is a simple console implementation of Wordle game. It uses polish online dictionary called **"sjp.pl"**.
 
 **5_letters_words_filter.py** script in **sjp_dictionary_for_games** dictionary was used to obtain only five letter words
